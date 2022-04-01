@@ -42,10 +42,10 @@
     padding-right: none;
 }
 a:link{
-    color:steelblue;
+    color:white;
 }
 a:visited{
-    color:steelblue;
+    color:white;
 }
 a:hover{
     color: red;
